@@ -1,0 +1,7 @@
+Version 1
+*Search --> API_All.html: Search apps with keywors from itunes
+*Lookup --> API_One.html: Search an app by its ID
+----------------------
+Version 2-0
+*Add API_PiCheck.html
+*Correct the API_all.html name (ALL->all)
