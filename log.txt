@@ -5,3 +5,17 @@ Version 1
 Version 2-0
 *Add API_PiCheck.html
 *Correct the API_all.html name (ALL->all)
+
+----------------------
+Version 2-1 Frame Branch @ GitHub
+*Separate Nav and Content parts by <frameset> & <frame>
+*Has been uploaded to App Engine 
+*!!but have problems about URL analysis
+*Go back to 2-0
+
+----------------
+Version 3-0 Master Branch @ GitHub
+* Delete Other iTunes_Serach_API_Files
+* Rename iTunes_Serach_API_PiCheck as PiCheck_Main.html
+* Update Nav-div & <Title> in Main.html & More.html
+* Update related parts in app.ymal & main.py
